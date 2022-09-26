@@ -1,0 +1,21 @@
+ul,
+li,
+p{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    outline: 1px solid tomato;
+    padding: 10px;
+    width: 1000px;
+}
+.list{
+    outline: 1px dashed green;
+    list-style: none;
+    display: flex;
+}
+
+.item{
+    outline: 1px solid yellow;
+    padding: 15px;
+}
